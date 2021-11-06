@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/india-fuel-price/static/css/main.251b9ee6.chunk.css",
-    "main.js": "/india-fuel-price/static/js/main.af0e5a23.chunk.js",
-    "main.js.map": "/india-fuel-price/static/js/main.af0e5a23.chunk.js.map",
+    "main.css": "/india-fuel-price/static/css/main.330587c8.chunk.css",
+    "main.js": "/india-fuel-price/static/js/main.c5104a8f.chunk.js",
+    "main.js.map": "/india-fuel-price/static/js/main.c5104a8f.chunk.js.map",
     "runtime-main.js": "/india-fuel-price/static/js/runtime-main.e1c9a12e.js",
     "runtime-main.js.map": "/india-fuel-price/static/js/runtime-main.e1c9a12e.js.map",
     "static/js/2.ed1fd347.chunk.js": "/india-fuel-price/static/js/2.ed1fd347.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.7dc12a5e.chunk.js": "/india-fuel-price/static/js/3.7dc12a5e.chunk.js",
     "static/js/3.7dc12a5e.chunk.js.map": "/india-fuel-price/static/js/3.7dc12a5e.chunk.js.map",
     "index.html": "/india-fuel-price/index.html",
-    "static/css/main.251b9ee6.chunk.css.map": "/india-fuel-price/static/css/main.251b9ee6.chunk.css.map",
+    "static/css/main.330587c8.chunk.css.map": "/india-fuel-price/static/css/main.330587c8.chunk.css.map",
     "static/js/2.ed1fd347.chunk.js.LICENSE.txt": "/india-fuel-price/static/js/2.ed1fd347.chunk.js.LICENSE.txt",
     "static/media/homepage.module.css": "/india-fuel-price/static/media/SL-013020-27540-03.e02367ed.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e1c9a12e.js",
     "static/js/2.ed1fd347.chunk.js",
-    "static/css/main.251b9ee6.chunk.css",
-    "static/js/main.af0e5a23.chunk.js"
+    "static/css/main.330587c8.chunk.css",
+    "static/js/main.c5104a8f.chunk.js"
   ]
 }
