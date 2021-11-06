@@ -53,6 +53,8 @@ const HomePage = () => {
         <a href="https://www.freepik.com/vectors/background">
           Background vector created by starline - www.freepik.com
         </a>
+        <br />
+        <a href="https://shailahir.com">Site created by Shailendra Ahir</a>
       </section>
     </div>
   );
